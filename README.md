@@ -1,20 +1,51 @@
-# Algorithm Design and Analysis Experiment
+# 算法设计与分析实验
 
-Student: ISMAIL ZAYAN AHMED (马子焰)
+## 学生信息
 
-Student ID: 20243060001
+姓名：ISMAIL ZAYAN AHMED（马子焰）
 
-Contents:
+学号：20243060001
 
-1. Sorting Algorithms
-   - Bubble Sort
-   - Merge Sort
-   - Quick Sort
+## 实验内容
 
-2. 0-1 Knapsack Problem
-   - Brute Force
-   - Dynamic Programming
-   - Greedy
-   - Backtracking
+### 一、排序算法实验
 
-Experimental results, source code, figures and report are included in this repository.
+实现并分析以下排序算法：
+
+- Bubble Sort（冒泡排序）
+
+- Merge Sort（归并排序）
+
+- Quick Sort（快速排序）
+
+实验内容包括：
+
+- 不同输入规模下比较次数统计
+
+- 输入等价类测试
+
+- 递归过程分析
+
+- 实验结果可视化与性能比较
+
+### 二、0-1背包问题实验
+
+实现并分析以下算法：
+
+- Brute Force（蛮力法）
+
+- Dynamic Programming（动态规划法）
+
+- Greedy Algorithm（贪心法）
+
+- Backtracking（回溯法）
+
+实验内容包括：
+
+- 不同背包容量下算法性能测试
+
+- 不同物品规模下运行时间分析
+
+- 算法效率比较
+
+- 实验结果可视化分析
